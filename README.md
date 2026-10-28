@@ -2,6 +2,10 @@
 
 A media search app built with React and Redux Toolkit. Search for photos, videos, and GIFs from multiple sources and save them to your personal collection.
 
+#Deploed Link
+
+https://media-search-application-nu.vercel.app/
+
 ## Features
 
 - **Search** — Search across Unsplash (photos), Pexels (videos), and Tenor (GIFs) from a single search bar
